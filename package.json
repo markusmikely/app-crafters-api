@@ -1,0 +1,24 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "An api to handle App Crafters backkend functions e.g sending emails",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markusmikely/app-crafters-api.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "nodemailer"
+  ],
+  "author": "Markus Junior Mikely",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/markusmikely/app-crafters-api/issues"
+  },
+  "homepage": "https://github.com/markusmikely/app-crafters-api#readme"
+}

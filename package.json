@@ -20,5 +20,10 @@
   "bugs": {
     "url": "https://github.com/markusmikely/app-crafters-api/issues"
   },
-  "homepage": "https://github.com/markusmikely/app-crafters-api#readme"
+  "homepage": "https://github.com/markusmikely/app-crafters-api#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "nodemailer": "^6.9.4"
+  }
 }
